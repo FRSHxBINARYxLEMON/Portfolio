@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="PURE SITE.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.25982083"
+     inkscape:cx="946.80629"
+     inkscape:cy="944.88189"
+     inkscape:window-width="1356"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="371.19285,355.07052"
+       origin="247.37217,160.84962"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       method="normal"
+       num_copies="6"
+       starting_angle="-57.399982"
+       rotation_angle="60"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false"
+       link_styles="false" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="335.9418,418.20965"
+       origin="378.83127,337.58825"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       method="normal"
+       num_copies="6"
+       starting_angle="-118.01236"
+       rotation_angle="60"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false"
+       link_styles="false" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="155.39305 : 310.78336 : 1"
+       inkscape:vp_y="0 : 493.76251 : 0"
+       inkscape:vp_z="402.2743 : 310.78336 : 1"
+       inkscape:persp3d-origin="278.83368 : 269.63649 : 1"
+       id="perspective1" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="177.8821,96.438009"
+       origin="104.32854,109.11542"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       method="normal"
+       num_copies="6"
+       starting_angle="9.7792016"
+       rotation_angle="60"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false"
+       link_styles="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g21"
+       transform="translate(-6.7817774,-18.261169)">
+      <g
+         id="g20"
+         transform="matrix(0.87514652,0,0,0.87514652,41.723694,8.5368759)"
+         style="stroke-width:1.14267">
+        <path
+           id="path12"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.4267;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 228.4577,181.15472 c -13.46432,24.84258 -6.06231,55.83834 17.17414,71.91654 23.23646,16.07821 54.85162,12.08 73.35418,-9.27643 z"
+           transform="translate(-1.6327837,41.511271)" />
+        <path
+           id="path20"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.4267;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 220.33003,154.62198 c -28.24646,0.76085 -51.38849,22.66854 -53.6944,50.831 -2.3059,28.16247 16.96448,53.54344 44.71097,58.88891 z"
+           transform="translate(-1.6327837,41.511271)" />
+        <path
+           id="path19"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.4267;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 355.01225,140.30295 -99.51279,47.07982 c 14.78214,24.08173 45.3267,33.16928 70.86906,21.08502 25.54236,-12.08426 37.88765,-41.46293 28.64373,-68.16484 z"
+           transform="translate(-1.6327837,41.511271)" />
+        <path
+           id="path18"
+           style="fill:#70f700;fill-opacity:1;stroke:none;stroke-width:11.4267;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 193.15391,107.91682 c -8.32522,-0.17026 -16.79583,1.53858 -24.77782,5.31492 -25.54236,12.08426 -37.88765,41.46293 -28.64373,68.16483 l 99.51228,-47.07981 c -10.16273,-16.5562 -27.77525,-26.02537 -46.09073,-26.39994 z"
+           transform="translate(-1.6327837,41.511271)" />
+        <path
+           id="path17"
+           style="fill:#70f700;fill-opacity:1;stroke:none;stroke-width:11.4267;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 215.60319,58.825757 c -14.88059,0.544658 -29.43743,7.065433 -39.84512,19.078422 l 90.52884,62.640101 c 13.46432,-24.84257 6.06232,-55.838333 -17.17414,-71.916537 -10.16595,-7.034215 -21.93579,-10.225609 -33.50958,-9.801986 z"
+           transform="translate(-1.6327837,41.511271)" />
+        <path
+           id="path16"
+           style="fill:#70f700;fill-opacity:1;stroke:none;stroke-width:11.4267;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 283.39801,57.357113 -8.98394,109.720437 c 28.24646,-0.76085 51.38849,-22.66906 53.69439,-50.83153 2.3059,-28.162466 -16.96395,-53.543432 -44.71045,-58.888907 z"
+           transform="translate(-1.6327837,41.511271)" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:77.9178px;line-height:1;font-family:Outfit;-inkscape-font-specification:'Outfit Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+         x="158.26993"
+         y="362.76416"
+         id="text20"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           style="fill:#000000;fill-opacity:1;stroke-width:10"
+           x="158.26993"
+           y="362.76416">PURE</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke-width:10"
+           x="158.26993"
+           y="440.68195"
+           id="tspan21"
+           dx="0 11.813074 12.88699 11.813074">SITE</tspan></text>
+    </g>
+  </g>
+</svg>

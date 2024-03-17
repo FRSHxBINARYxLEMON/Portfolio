@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="Yonan.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.25982083"
+     inkscape:cx="946.80629"
+     inkscape:cy="944.88189"
+     inkscape:window-width="1356"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5"
+       transform="translate(0,-7.28667)">
+      <g
+         id="g4"
+         transform="translate(-20.598862,-3.4634354)">
+        <rect
+           style="fill:#080808;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1"
+           width="315.19186"
+           height="315.19186"
+           x="113.00293"
+           y="62.877209"
+           ry="56.589008" />
+        <g
+           id="g3"
+           transform="matrix(0.59088963,0,0,0.59088963,155.60966,41.566061)">
+          <path
+             id="rect2"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.37478;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+             d="m 346.48425,94.594557 c -7.83352,0 -14.13981,6.306293 -14.13981,14.139813 v 34.17265 c 0,7.83352 6.30629,14.13981 14.13981,14.13981 h 28.83126 v 10.99328 l 0.02,0.61911 c 0,0 0.35052,7.88835 -3.4024,15.48972 -3.75294,7.60139 -9.95663,14.99518 -29.8167,14.99518 h -9.72681 v 19.45053 h 9.72681 c 25.67377,0 40.93001,-13.02114 47.25644,-25.83504 5.75445,-11.65534 5.48972,-22.96423 5.39419,-24.93367 v -14.40549 -9.72619 h -0.009 c 0.0133,-0.26222 0.0399,-0.52129 0.0399,-0.78724 v -34.17265 c 0,-7.83352 -6.30627,-14.139813 -14.13981,-14.139813 z" />
+          <path
+             id="path3"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.37478;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+             d="m 264.01801,94.594557 c -7.83352,0 -14.13981,6.306293 -14.13981,14.139813 v 34.17265 c 0,7.83352 6.30629,14.13981 14.13981,14.13981 h 28.83126 v 10.99328 l 0.02,0.61911 c 0,0 0.35052,7.88835 -3.4024,15.48972 -3.75294,7.60139 -9.95663,14.99518 -29.8167,14.99518 h -9.72681 v 19.45053 h 9.72681 c 25.67377,0 40.93001,-13.02114 47.25644,-25.83504 5.75445,-11.65534 5.48972,-22.96423 5.39419,-24.93367 v -14.40549 -9.72619 h -0.009 c 0.0133,-0.26222 0.0399,-0.52129 0.0399,-0.78724 v -34.17265 c 0,-7.83352 -6.30628,-14.139813 -14.13982,-14.139813 z" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:62.4772px;line-height:1;font-family:Outfit;-inkscape-font-specification:'Outfit Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#080808;fill-opacity:1;stroke:#000000;stroke-width:118.067;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0"
+         x="155.05843"
+         y="446.15979"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="fill:#080808;fill-opacity:1;stroke:#000000;stroke-width:118.067;stroke-opacity:0"
+           x="155.05843"
+           y="446.15979">YoNan</tspan></text>
+    </g>
+  </g>
+</svg>

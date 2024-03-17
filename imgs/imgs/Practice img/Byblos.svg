@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="Byblos.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.25982083"
+     inkscape:cx="944.88189"
+     inkscape:cy="944.88189"
+     inkscape:window-width="1356"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9"
+       transform="matrix(0.82065649,0,0,0.82065649,36.064922,-6.2672484)">
+      <rect
+         style="fill:#20bfc4;fill-opacity:1;stroke-width:5.5;stroke-linecap:round;stroke-linejoin:bevel"
+         id="rect1"
+         width="81.717155"
+         height="81.717155"
+         x="124.6475"
+         y="298.60886" />
+      <g
+         id="g8"
+         transform="translate(-0.19858932)">
+        <rect
+           style="fill:#20bfc4;fill-opacity:1;stroke-width:5.5;stroke-linecap:round;stroke-linejoin:bevel"
+           id="rect2"
+           width="81.717155"
+           height="81.717155"
+           x="220.02774"
+           y="298.60886" />
+        <rect
+           style="fill:#1caaae;fill-opacity:1;stroke-width:5.5;stroke-linecap:round;stroke-linejoin:bevel"
+           id="rect3"
+           width="81.717155"
+           height="81.717155"
+           x="220.02774"
+           y="206.53732" />
+      </g>
+      <g
+         id="g7">
+        <rect
+           style="fill:#20bfc4;fill-opacity:1;stroke-width:5.5;stroke-linecap:round;stroke-linejoin:bevel"
+           id="rect4"
+           width="81.717155"
+           height="81.717155"
+           x="315.0108"
+           y="298.60886" />
+        <rect
+           style="fill:#1caaae;fill-opacity:1;stroke-width:5.5;stroke-linecap:round;stroke-linejoin:bevel"
+           id="rect5"
+           width="81.717155"
+           height="81.717155"
+           x="315.0108"
+           y="206.53732" />
+        <rect
+           style="fill:#14777a;fill-opacity:1;stroke-width:5.5;stroke-linecap:round;stroke-linejoin:bevel"
+           id="rect6"
+           width="81.717155"
+           height="81.717155"
+           x="315.0108"
+           y="116.63757" />
+      </g>
+    </g>
+    <g
+       id="g11">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.3566px;line-height:1;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;fill:#14777a;fill-opacity:1;stroke:none;stroke-width:30.3271;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+         x="160.01425"
+         y="382.5354"
+         id="text9"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';stroke:none;stroke-width:30.3271"
+           x="160.01425"
+           y="382.5354">Byblos</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3056px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';letter-spacing:0px;word-spacing:0px;fill:#14777a;fill-opacity:1;stroke:none;stroke-width:10.0329;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+         x="201.95811"
+         y="410.29691"
+         id="text10"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';stroke-width:10.0329"
+           x="201.95811"
+           y="410.29691">since 1980</tspan></text>
+    </g>
+  </g>
+</svg>

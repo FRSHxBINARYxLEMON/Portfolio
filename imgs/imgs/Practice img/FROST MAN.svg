@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="FROST MAN.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.25982083"
+     inkscape:cx="944.88189"
+     inkscape:cy="960.27711"
+     inkscape:window-width="1356"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CentripetalCatmullRom"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       end_linecap_type="round"
+       offset_points="0.54997337,8.4201054 | 0.71624147,12.264171 | 0.90342027,16.406315"
+       linejoin_type="round"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="25.589407"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="38.627272"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.69099;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="500"
+       height="500"
+       x="0"
+       y="0"
+       ry="0" />
+    <g
+       id="g7"
+       transform="translate(1.958228)">
+      <g
+         id="g6"
+         transform="translate(3.4995685)">
+        <circle
+           style="fill:#4ff0ff;fill-opacity:0.964864;stroke:#000000;stroke-width:4.56869;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="path2"
+           cx="194.65961"
+           cy="234.75896"
+           r="34.368561" />
+        <path
+           id="circle2"
+           style="fill:#65ff4f;fill-opacity:1;stroke:#000000;stroke-width:4.56815;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 330.94537,203.57368 a 34.368559,34.368559 0 0 0 -34.3686,34.3686 34.368559,34.368559 0 0 0 34.3686,34.36862 34.368559,34.368559 0 0 0 13.52501,-2.82563 v 15.43412 c 0,4.66099 3.75256,8.41355 8.41354,8.41355 4.661,0 8.41356,-3.75256 8.41356,-8.41355 v -31.0326 a 34.368559,34.368559 0 0 0 4.01651,-15.94451 34.368559,34.368559 0 0 0 -34.36862,-34.3686 z" />
+        <circle
+           style="fill:#ff4f4f;fill-opacity:1;stroke:#000000;stroke-width:4.56869;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="circle3"
+           cx="263.21228"
+           cy="206.45959"
+           r="34.368561" />
+        <path
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.56869;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 301.56023,273.51898 c 0,0 -30.57395,29.9 -75.5382,22.36884"
+           id="path3" />
+        <path
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.56869;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 290.6016,283.77056 c 0,0 21.76026,-0.6538 33.11888,18.89667 6.44103,13.65167 -3.42637,20.30667 -3.42637,20.30667 0,0 -26.12434,22.89451 -46.28081,-29.94134 -0.17462,-0.77805 16.5883,-9.262 16.5883,-9.262 z"
+           id="path4" />
+        <path
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.56869;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 281.3168,287.82868 c 0,0 18.00771,7.16537 23.24119,17.87182"
+           id="path5" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.1987px;line-height:1;font-family:Outfit;-inkscape-font-specification:Outfit;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.1433;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="28.298777"
+         y="250.24683"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="fill:#000000;fill-opacity:1;stroke-width:13.1433"
+           x="28.298777"
+           y="250.24683">FROST</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.1987px;line-height:1;font-family:Outfit;-inkscape-font-specification:Outfit;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.1433;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="377.86041"
+         y="250.24683"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="fill:#000000;fill-opacity:1;stroke-width:13.1433"
+           x="377.86041"
+           y="250.24683">MAN</tspan></text>
+    </g>
+  </g>
+</svg>
