@@ -1,0 +1,622 @@
+body {
+
+  width : 100% ;
+  height : 100% ;
+  padding : 0 ;
+  margin : 0 ;
+  background-color : #8b00d9ff ;
+  font-family : Outfit ;
+  color : white ;
+}
+
+/* Colors : 
+
+  Primary : #8b00d9ff ;
+  Secondary : #d2018aff ;
+  Tertiary : #5a595aff ;
+  Text : White ;
+*/
+
+color {
+
+  color : rgb(233, 114, 233) ;
+}
+
+.white-leaf {
+
+  position : absolute ;
+}
+
+@media screen and ( min-width : 950px )
+{
+
+/* Profile */
+
+.profile {
+
+  display : grid ;
+  grid-template-columns : 1fr 1fr ;
+  margin : 100px auto ;
+}
+
+.pfp-con {
+
+  padding-right : 30px ;
+  justify-self : end ;
+}
+
+.pfp {
+
+  width : 100px ;
+}
+
+.name-prof-con {
+
+  padding-top : 20px ;
+  font-size : 20px ;
+  justify-self : start ;
+}
+
+.name {
+
+  margin : 0 ;
+}
+
+.prof {
+
+  color : rgb(226, 226, 226) ;
+  margin : 0 ;
+}
+
+.social-media {
+
+  padding : 5px 0 ;
+}
+
+.LL , .IL {
+
+  width : 20px ;
+}
+
+.IL { margin-left : 5px }
+
+/* Navigate Bar */
+
+.nav-bar {
+
+  margin : 0 80px ;
+}
+
+.nav-bar button {
+
+  background-color : rgba( 0,0,0,0 ) ;
+  border : none ;
+  color : rgb(172, 172, 172) ;
+  padding : 0 15px ;
+  font-size : 20px ;
+  font-family : Outfit ;
+  margin : 20px 0 ;
+  transition-duration : 0.2s ;
+}
+
+.nav-bar button:hover {
+
+  color : white ;
+}
+
+/* main container */
+
+.main-con {
+
+  background-color : white ;
+  margin : 0 20px ;
+  border-radius : 50px ;
+}
+
+/* Projects container */
+
+.projects-con {
+
+  display : grid ;
+  padding : 50px ;
+  grid-template-columns : 1fr 1fr ;
+  grid-gap : 20px ;
+
+  display : grid ;
+}
+
+.projects-phrase {
+
+  color : blueviolet ;
+  font-size : 30px ;
+  text-align : center ;
+  padding : 60px 0 ;
+}
+
+.projects-con img {
+
+  border-radius : 20px ;
+  width : 500px ;
+  margin-left : 50px ;
+  transition-duration : 0.2s ;
+  justify-self : center ;
+}
+
+.projects-con img:hover {
+
+  box-shadow : 0 0 36px 10px rgba(111, 0, 238, 0.5) ;
+}
+
+/* about me container */
+
+.aboutme-con {
+
+  color : blueviolet ;
+  font-size : 20px ;
+  text-align :justify ;
+  display : grid ;
+  grid-template-columns : 1fr 1fr ;
+  padding : 50px ;
+
+  display : none ;
+}
+
+hr {
+
+  display : none ;
+}
+
+.aboutme-phrase {
+
+  padding : 40px 20px 0 0 ;
+  justify-self : center ;
+  line-height : 50px ;
+}
+
+.aboutme-phrase2 {
+
+  padding : 40px 0 0 0 ;
+  justify-self : center ;
+  line-height : 50px ;
+}
+
+.aboutme-phrase3 {
+
+  padding : 50px 50px 0 0 ;
+  justify-self : center ;
+  line-height : 50px ;
+}
+
+.aboutme-con img {
+
+  width : 300px ;
+  padding : 20px ;
+  justify-self : center ;
+}
+
+/* FAQs container */
+
+.faqs-con {
+
+  display : none ;
+}
+
+.faqs-con hr {
+
+  color : blueviolet ;
+}
+
+/* FAQs Phrase */
+
+.faqs-phrase-con {
+
+  display : grid ;
+  grid-template-columns : 1fr 1fr ;
+  padding : 30px ;
+}
+
+.faqs-phrase {
+
+  text-align : center ;
+  color : blueviolet ;
+  justify-self : end ;
+}
+
+.faqs-emoji {
+
+  width : 40px ;
+  justify-self : start ;
+  margin-left : 70px ;
+  transform : rotate( -20deg ) ;
+}
+
+/* FAQs Contacts */
+
+.faqs-contacts {
+
+  display : grid ;
+  grid-template-columns : 1fr 1fr ; 
+}
+
+.faqs-contacts a {
+
+  color : blueviolet ;
+  text-decoration : none ;
+  font-size : 20px ;
+  justify-self : start ;
+}
+
+.faqs-contacts a:hover {
+
+  color : rgb(226, 43, 83) ;
+}
+
+.faqs-contacts img {
+
+  width : 30px ;
+  justify-self : end ;
+  margin-bottom : 20px ;
+  margin-right : 50px ;
+}
+
+/* Practice Container */
+
+.practice-con {
+
+  display : none ;
+  grid-gap : 50px ;
+  grid-template-columns : 1fr 1fr 1fr 1fr ;
+  padding : 30px ;
+}
+
+.practice-con img {
+
+  border-radius : 20px ;
+  width : 200px ;
+  justify-self : center ;
+}
+
+/* Footer */
+
+.footer {
+
+  display : grid ;
+  grid-template-columns : 1fr 1fr 1fr 1fr ;
+  background-color : white ;
+  margin-top : 20px ;
+  padding : 10px ;
+  color : blueviolet ;
+}
+
+.footer img {
+
+  width : 100px ;
+  justify-self : start ;
+  margin-left : 100px ;
+}
+
+.footer ul {
+
+  justify-self : center ;
+}
+
+.list-three {
+
+  margin-right : 150px ;
+}
+
+.footer li {
+
+  list-style : none ;
+}
+
+.footer a {
+
+  color : #ca18c9ff ;
+  text-decoration : none ;
+  transition-duration : 0.2s ;
+}
+
+.footer a:hover {
+
+  color : rgb(255, 0, 85) ;
+}
+
+.mini-title {
+
+  font-weight : bold ;
+  padding-bottom : 10px ;
+}
+
+}
+
+/* Mobile Version */
+
+@media screen and ( max-width : 950px )
+{
+
+/* Profile */
+
+.profile {
+
+  display : grid ;
+  grid-template-columns : 1fr 1fr ;
+  margin : 50px auto ;
+}
+
+.pfp-con {
+
+  justify-self : center ;
+}
+
+.pfp {
+
+  width : 60px ;
+}
+
+.name-prof-con {
+
+  padding-top : 10px ;
+  font-size : 12px ;
+  justify-self : start ;
+}
+
+.name {
+
+  margin : 0 ;
+}
+
+.prof {
+
+  color : rgb(226, 226, 226) ;
+  margin : 0 ;
+}
+
+.social-media {
+
+  padding : 10px 0 ;
+}
+
+.LL , .IL {
+
+  width : 20px ;
+}
+
+.IL { margin-left : 5px }
+
+  /* Navigate Bar */
+
+.nav-bar {
+
+  margin : 0 15px ;
+}
+
+.nav-bar button {
+
+  background-color : rgba( 0,0,0,0 ) ;
+  border : none ;
+  color : rgb(172, 172, 172) ;
+  padding : 0 5px ;
+  font-size : 20px ;
+  font-family : Outfit ;
+  margin : 20px 0 ;
+  transition-duration : 0.2s ;
+}
+
+.nav-bar button:hover {
+
+  color : white ;
+}
+
+/* main container */
+
+.main-con {
+
+  background-color : white ;
+}
+
+/* Projects container */
+
+.projects-con {
+
+  padding : 10px ;
+  grid-template-columns : 1fr ;
+  grid-gap : 10px ;
+
+  display : grid ;
+}
+
+.projects-phrase {
+
+  color : blueviolet ;
+  font-size : 20px ;
+  text-align : center ;
+  padding : 10px 0 ;
+}
+
+.projects-con img {
+
+  border-radius : 20px ;
+  margin-top : 20px ;
+  width : 250px ;
+  justify-self : center ;
+  transition-duration : 0.2s ;
+}
+
+.projects-con img:hover {
+
+  box-shadow : 0 0 36px 10px rgba(111, 0, 238, 0.5) ;
+}
+
+/* about me container */
+
+.aboutme-con {
+
+  color : blueviolet ;
+  font-size : 15px ;
+  text-align : center ;
+  display : grid ;
+  padding : 15px ;
+
+  display : none ;
+}
+
+hr {
+
+  min-width : 80% ;
+  border : solid 1px blueviolet ; 
+}
+
+.aboutme-phrase {
+
+  justify-self : center ;
+  padding : 50px 0px 0 0 ;
+}
+
+.aboutme-phrase2 {
+
+  justify-self : center ;
+  padding : 50px 0 50px 0 ;
+}
+
+.aboutme-phrase3 {
+
+  justify-self : center ;
+  padding : 50px 0 0 0 ;
+}
+
+.aboutme-con img {
+
+  justify-self : center ;
+  width : 200px ;
+  padding : 20px ;
+}
+
+/* FAQs container */
+
+.faqs-con {
+
+  display : none ;
+}
+
+.faqs-con hr {
+
+  color : blueviolet ;
+}
+
+/* FAQs Phrase */
+
+.faqs-phrase-con {
+
+  display : grid ;
+  grid-template-columns : 1fr 1fr ;
+  padding : 30px ;
+}
+
+.faqs-phrase {
+
+  text-align : center ;
+  color : blueviolet ;
+  justify-self : end ;
+}
+
+.faqs-emoji {
+
+  width : 40px ;
+  justify-self : start ;
+  margin-left : 70px ;
+  transform : rotate( -20deg ) ;
+}
+
+/* FAQs Contacts */
+
+.faqs-contacts {
+
+  display : grid ;
+  grid-template-columns : 1fr 1fr ; 
+}
+
+.faqs-contacts a {
+
+  color : blueviolet ;
+  text-decoration : none ;
+  font-size : 20px ;
+  justify-self : start ;
+}
+
+.faqs-contacts a:hover {
+
+  color : rgb(226, 43, 83) ;
+}
+
+.faqs-contacts img {
+
+  width : 30px ;
+  justify-self : end ;
+  margin-bottom : 20px ;
+  margin-right : 50px ;
+}
+
+/* Practice Container */
+
+.practice-con {
+
+  display : none ;
+  grid-gap : 50px ;
+  grid-template-columns : 1fr 1fr ;
+  padding : 10px ;
+}
+
+.practice-con img {
+
+  border-radius : 20px ;
+  justify-self: center;
+  width : 100px ;
+}
+
+/* Footer */
+
+.footer {
+
+  display : grid ;
+  background-color : white ;
+  margin-top : 20px ;
+  padding-top : 20px ;
+  color : blueviolet ;
+}
+
+.footer img {
+
+  width : 100px ;
+  height : 100px ;
+  justify-self : center ;
+}
+
+.footer ul {
+
+  justify-self : center ;
+}
+
+.footer li {
+
+  list-style : none ;
+}
+
+.footer a {
+
+  color : #ca18c9ff ;
+  text-decoration : none ;
+  transition-duration : 0.2s ;
+}
+
+.footer a:hover {
+
+  color : rgb(255, 0, 85) ;
+}
+
+.mini-title {
+
+  font-weight : bold ;
+  padding-bottom : 10px ;
+}
+}

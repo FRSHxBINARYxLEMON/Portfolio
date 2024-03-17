@@ -1,0 +1,29 @@
+body {
+
+    padding : 0 ;
+    margin : 0 ;
+    height : 100% ;
+    width : 100% ;
+    display : grid ;
+    background : linear-gradient( to top , pink , blueviolet ) ;
+}
+
+.Project {
+
+    margin-top : 50px ;
+    justify-self : center ;
+}
+
+a {
+
+    color : blueviolet ;
+    font-size : 20px ;
+    text-decoration : none ;
+    padding : 40px ;
+    transition-duration : 0.2s ;
+}
+
+a:hover {
+
+    color : white ;
+}
